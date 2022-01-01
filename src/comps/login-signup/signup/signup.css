@@ -1,0 +1,37 @@
+
+.signup{
+    height: 1000px;
+    width: 100% ;
+    background: url('/src/imgs/kirklai-Td6Yy3S3Ls0-unsplash.jpg');
+    background-size: cover;
+    background-position: 0 60px;
+
+}
+
+.field-pass{
+    width: 95%;
+}
+
+.field-signup{
+    width: 95%;
+}
+
+.signup-form{
+    margin-top: 10%;
+    background: rgba(0, 0, 0, 0.5);
+    height: 60%;
+    width: 40%;
+    border-radius: 5px;
+}
+
+.input-pass{
+    width: 100%;
+}
+
+.to-signup{
+    font-weight: 600;
+}
+
+.to-signup{
+    color: white;
+}

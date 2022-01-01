@@ -1,0 +1,72 @@
+
+
+.flight-search{
+    margin-top: 65px;
+    background-image: url('/src/imgs/nik-shuliahin-rkFIIE9PxH0-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+
+.search-title-flight{
+    padding-left: 50px;
+    margin-left: 50px;
+    width: 650px;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0.473);
+}
+
+.input.flight-search{
+    margin-bottom: 30px;
+    margin-left: 10%;
+    width: 50%;
+    background: rgba(0, 0, 0, 0.747);
+    color: white;
+}
+
+.button.flight-search{
+    margin-left: 10px;
+    background-image: none;
+}
+
+
+.flights{
+    width: 100%;
+}
+
+.options{
+    width: 150px;
+}
+
+.dest-scroll{
+    overflow: hidden;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.flights-section{
+    scroll-behavior: auto;
+    margin: 35px 10px 35px 30px;
+    /* border: 1px dashed rgba(0, 0, 0, 0.301); */
+    width:auto;
+    height: 1000px;
+    overflow: hidden;
+    overflow-y: scroll;
+    /* margin-bottom: 20px; */
+
+}
+
+.flights-section::-webkit-scrollbar{
+    width: 5px;
+    background-color: lightgray;
+}
+
+.flights-section::-webkit-scrollbar-thumb{
+    
+    background-color: cadetblue;
+}
+
+.flights-section::-webkit-scrollbar-corner{
+    width: 8px;
+}

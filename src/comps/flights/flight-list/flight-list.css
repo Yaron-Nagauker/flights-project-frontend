@@ -1,0 +1,22 @@
+
+
+
+
+.flight-card{
+    background-color: cadetblue;
+}
+
+.arrow{
+    display: flex;
+    flex-direction:row;
+    width: 100%;
+    height: 3px;
+    background-color: cadetblue;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+

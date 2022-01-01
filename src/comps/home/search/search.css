@@ -1,0 +1,21 @@
+
+
+
+.input.main-searh{
+    margin-top: 250px;
+    margin-left: 10%;
+    width: 60%;
+    background: rgba(0, 0, 0, 0.747);
+    color: white;
+    
+}
+
+button.main-searh{
+    margin-top: 250px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#country-list{
+    width: 100%;
+}

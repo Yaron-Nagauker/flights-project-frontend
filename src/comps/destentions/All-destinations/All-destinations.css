@@ -1,0 +1,91 @@
+
+
+.dest-search{
+    margin-top: 65px;
+    background-image: url('/src/imgs/brett-zeck-eyfMgGvo9PA-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: 0px;
+}
+
+.search-title-dest{
+    margin-left: 50px;
+    font-size: 25px;
+    color: white;
+    font-weight: 500;
+}
+
+.input.flight-search{
+    margin-bottom: 30px;
+    margin-left: 15%;
+    width: 50%;
+    background: rgba(0, 0, 0, 0.747);
+    color: white;
+}
+
+.button.flight-search{
+    margin-left: 10px;
+    background-image: none;
+}
+
+
+
+.search-title{
+    margin-left: 50px;
+    font-size: 25px;
+    color: black;
+    font-weight: 500;
+}
+
+.input.flight-search{
+    margin-bottom: 30px;
+    margin-left: 10%;
+    width: 50%;
+    background: rgba(0, 0, 0, 0.747);
+    color: white;
+}
+
+.button.flight-search{
+    margin-left: 10px;
+    background-image: none;
+}
+
+
+.flights{
+    width: 100%;
+}
+
+.options{
+    width: 150px;
+}
+
+.flights-scroll{
+    overflow: hidden;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+
+.section-dest{
+    scroll-behavior: auto;
+    margin: 35px 10px 35px 30px;
+    /* border: 1px dashed rgba(0, 0, 0, 0.301); */
+    width:auto;
+    height: 1000px;
+    overflow: hidden;
+    overflow-y: scroll;
+    /* margin-bottom: 20px; */
+
+}
+
+.flights-section::-webkit-scrollbar{
+    width: 5px;
+    background-color: lightgray;
+}
+
+.flights-section::-webkit-scrollbar-thumb{
+    
+    background-color: cadetblue;
+}
+
+.section-dest::-webkit-scrollbar-corner{
+    width: 8px;
+}

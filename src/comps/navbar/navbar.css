@@ -1,0 +1,70 @@
+
+
+.navbar{
+    background: rgba(0, 0, 0, 0.788);
+    /* background: transparent; */
+}
+
+.navbar-item.title{
+    margin-bottom: 0;
+}
+
+.navbar-link.title.More-link{
+    margin-bottom: 0;
+}
+
+.flight-link{
+    color: white;
+    margin-bottom: 0;
+}
+
+.flight-link:hover{
+    color: black;
+}
+
+.destentions-link{
+    color: white
+}
+
+.destentions-link:hover{
+    color:black
+}
+
+.More-link{
+    color: white;
+}
+
+.More-link.is-active{
+    color:black
+}
+
+.More-link:hover{
+    color:black
+}
+
+.navbar-item.is-active:hover{
+    color: rgb(255, 255, 255);
+    margin-bottom: 0;
+}
+
+
+
+.navbar-item.active{
+    color: rgb(255, 255, 255);
+}
+
+
+.navbar-dropdown{
+    color:rgb(0, 0, 0);
+}
+
+.navbar-item.logout{
+    color: white;
+}
+
+.user{
+    background:turquoise;
+    margin-right: 20px;
+    height: 60px;
+    width: 50px;
+}
